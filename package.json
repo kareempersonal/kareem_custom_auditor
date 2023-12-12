@@ -1,0 +1,16 @@
+{
+  "name": "kareem_custom_auditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "mysql2": "^3.6.5",
+    "winston": "^3.11.0"
+  }
+}
